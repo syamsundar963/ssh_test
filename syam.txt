@@ -1,1 +1,2 @@
 is SSH key get success?
+is editing git success?
