@@ -1,2 +1,3 @@
 is SSH key get success?
 is editing git success?
+test for creating new branch merging.
